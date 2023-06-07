@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a home dashboard](https://dash-home.netlify.app)
 
-- I’m currently 17 years old
+- I’m currently 18 years old
 
 - 🌱 I’m currently learning **Svelte**
 
